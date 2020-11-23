@@ -15,5 +15,6 @@ This is a project, where I created a web page which advertises a product called 
 
 ## Contact
 
-###### Author: Aron Kleinhans
-###### e-mail: kleinhans.aron@gmail.com
+### Author: Aron Kleinhans
+
+### e-mail: kleinhans.aron@gmail.com
