@@ -1,6 +1,6 @@
 # Excursion Project
 
-This is a project, where I created a web page which advertises a product called “Excursion.”
+This is a Codecademy project, where I create a web page which advertises a product called “Excursion.”
 
 ## Using
 
