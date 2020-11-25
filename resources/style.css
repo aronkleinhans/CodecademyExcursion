@@ -23,6 +23,7 @@ article h2 {
     font-size: 42px;
 }
 footer p, article p {
+    font-weight: 300;
     font-size: 21px;
     color: gray;
 }
