@@ -1,18 +1,16 @@
-html {
-    background-color: black;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-html a {
-    color: aquamarine;
-    font-size: 16px;
-}
 body {
     display: flex;
     align-content: center;
     justify-content: center;
     text-align: center;
     flex-direction: column;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body a {
+    color: aquamarine;
+    font-size: 16px;
 }
 header h1 {
     font-size: 50px;
